@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "raveren/kint": "dev-master",
+        "robclancy/xf-sync": "dev-master",
+        "robclancy/xf-toolkit": "*"
+    },
+    "minimum-stability": "dev"
+}
